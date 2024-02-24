@@ -22,21 +22,6 @@ A estrutura e informações a serem incluidas no objeto ficam a sua escolha, que
 
 ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/0ef1b2b2-da18-4f11-bf4e-4b9a5591dc6f/b9f0e03f-38e4-47c0-a5b2-c43b7c37d9da/Untitled.png)
 
-### Critérios de Avaliação
-
-- Habilidade em acessar e inspecionar elementos em uma página web.
-- Conhecimento básico em JavaScript para escrever o script.
-- Capacidade de extrair informações específicas da página.
-- Clareza e organização do código desenvolvido.
-- Tratamento para quando uma das informações não está disponível.
-
-## O que nós gostamos
-
-- Boa organização e estruturação do código.
-
-### Entrega
-
-- Ao finalizar a prova, basta enviar o link do repositório para o e-mail [pedro.antonio@in8.com.br](mailto:pedro.antonio@in8.com.br?subject=resolucao_dev_junior)  com o assunto "Resolução Teste Estagiário".
 
 ### Observações
 
